@@ -9,7 +9,6 @@ def get_cpu_ram_usage():
 
 
 
-
 if __name__ == "__main__":
     while True:
         cpu, ram = get_cpu_ram_usage()
